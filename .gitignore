@@ -82,3 +82,7 @@ docs/_build/
 .prettierrc.yml
 .pylintrc
 .pylintrc-mandatory
+
+config/
+exports/
+data/
